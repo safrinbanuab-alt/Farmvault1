@@ -1,0 +1,141 @@
+produce_id,produce_name,category,variety,farmer_name,location,harvest_date,quantity_kg,storage_unit,temperature,humidity,freshness_score,quality_grade,status
+PRD0001,Potato,Vegetable,Kufri Jyoti,Anitha Rani,Salem,2026-02-27,322.1,Cold Room B,8.8,93.4,58.8,C,Near Expiry
+PRD0002,Tomato,Vegetable,Pusa Ruby,Selvi Devi,Salem,2026-03-01,1035.4,Cold Room A,7.6,90.7,85.9,A,Near Expiry
+PRD0003,Carrot,Vegetable,Pusa Kesar,Dinesh Kannan,Chennai,2026-01-02,1529.7,Ambient Shed 1,27.8,53.5,61.8,C,Dispatched
+PRD0004,Potato,Vegetable,Kufri Jyoti,Elango Nadar,Dindigul,2026-04-02,1702.6,Ripening Chamber 1,10.1,90.9,78.6,B,Near Expiry
+PRD0005,Potato,Vegetable,Kufri Bahar,Manikandan S,Vellore,2026-04-03,1175.8,Cold Room B,2.5,83.4,67.7,B,Fresh
+PRD0006,Carrot,Vegetable,Nantes,Elango Nadar,Chennai,2026-04-27,1289.6,Ripening Chamber 2,3.6,85.3,84.5,B,Fresh
+PRD0007,Chilli,Vegetable,Kashmiri,Ganesan Moorthy,Thanjavur,2026-07-06,527.4,Ventilated Store 1,23.3,69.7,83.2,B,Sold
+PRD0008,Carrot,Vegetable,Desi Red,Pandiyan Raj,Madurai,2026-02-28,1652.5,Ripening Chamber 2,6.0,81.0,95.2,A,Sold
+PRD0009,Banana,Fruit,Robusta,Meenakshi Sundaram,Erode,2026-06-14,944.8,Ripening Chamber 1,3.4,91.2,78.7,B,Sold
+PRD0010,Apple,Fruit,Fuji,Elango Nadar,Trichy,2026-02-26,1994.8,Ambient Shed 1,25.1,47.3,57.1,C,Fresh
+PRD0011,Onion,Vegetable,Agrifound Light Red,Ganesan Moorthy,Erode,2026-06-02,173.9,Cold Room C,8.0,87.0,66.1,B,Sold
+PRD0012,Tomato,Vegetable,Hybrid Arka Rakshak,Karthik Raja,Thanjavur,2026-07-12,570.3,Ripening Chamber 2,3.1,86.5,75.0,B,Dispatched
+PRD0013,Grapes,Fruit,Thompson Seedless,Palanisamy V,Dindigul,2026-06-10,632.0,Ambient Shed 2,20.1,64.1,78.7,B,Sold
+PRD0014,Tomato,Vegetable,Hybrid Arka Rakshak,Pandiyan Raj,Theni,2026-01-05,268.1,Ripening Chamber 2,10.8,92.5,68.5,B,Fresh
+PRD0015,Carrot,Vegetable,Desi Red,Selvi Devi,Dindigul,2026-07-07,997.7,Cold Room B,11.8,88.0,60.5,C,Near Expiry
+PRD0016,Grapes,Fruit,Thompson Seedless,Anitha Rani,Thanjavur,2026-06-05,875.1,Ambient Shed 2,31.0,63.9,85.4,A,Dispatched
+PRD0017,Apple,Fruit,Fuji,Kavitha Murugan,Theni,2026-05-13,930.4,Ambient Shed 2,21.1,53.5,80.9,B,In Storage
+PRD0018,Chilli,Vegetable,Guntur Sannam,Ramasamy Pillai,Dindigul,2026-07-01,1280.7,Ambient Shed 2,18.9,45.8,69.5,B,Sold
+PRD0019,Carrot,Vegetable,Pusa Kesar,Meenakshi Sundaram,Salem,2026-05-19,308.0,Ventilated Store 1,21.4,56.8,72.9,B,Fresh
+PRD0020,Potato,Vegetable,Kufri Bahar,Saroja Devi,Trichy,2026-04-19,851.6,Cold Room A,8.7,94.8,59.3,C,Near Expiry
+PRD0021,Banana,Fruit,Robusta,Suresh Babu,Salem,2026-02-18,1095.8,Ambient Shed 1,23.9,52.0,66.0,B,Fresh
+PRD0022,Mango,Fruit,Neelam,Karthik Raja,Madurai,2026-06-16,1998.6,Cold Room A,11.7,93.9,92.3,A,In Storage
+PRD0023,Apple,Fruit,Royal Gala,Meenakshi Sundaram,Salem,2026-04-13,1809.8,Ambient Shed 1,23.3,69.6,66.7,B,Near Expiry
+PRD0024,Cabbage,Vegetable,Pride of India,Chitra Kumari,Theni,2026-02-09,420.3,Ambient Shed 2,31.6,59.5,78.9,B,Dispatched
+PRD0025,Tomato,Vegetable,Pusa Ruby,Dinesh Kannan,Theni,2026-05-09,1842.8,Ambient Shed 1,18.8,57.7,92.5,A,Fresh
+PRD0026,Chilli,Vegetable,Guntur Sannam,Suresh Babu,Erode,2026-01-31,1886.1,Ambient Shed 2,26.1,46.0,58.6,C,Sold
+PRD0027,Chilli,Vegetable,Kashmiri,Pandiyan Raj,Chennai,2026-02-22,1356.0,Ripening Chamber 2,4.4,85.9,84.6,B,Dispatched
+PRD0028,Mango,Fruit,Banganapalli,Selvi Devi,Madurai,2026-04-28,1261.3,Cold Room B,2.7,83.2,66.7,B,Dispatched
+PRD0029,Potato,Vegetable,Kufri Jyoti,Kavitha Murugan,Chennai,2026-02-10,904.5,Ripening Chamber 1,8.1,94.8,83.8,B,Fresh
+PRD0030,Grapes,Fruit,Sonaka,Karthik Raja,Coimbatore,2026-03-09,275.1,Cold Room B,9.4,82.3,67.4,B,In Storage
+PRD0031,Banana,Fruit,Robusta,Anitha Rani,Thanjavur,2026-05-06,539.7,Cold Room A,2.9,86.4,67.2,B,Fresh
+PRD0032,Banana,Fruit,Robusta,Anitha Rani,Coimbatore,2026-07-09,911.6,Cold Room C,7.6,81.7,96.6,A,In Storage
+PRD0033,Grapes,Fruit,Thompson Seedless,Kavitha Murugan,Vellore,2026-05-22,338.8,Ambient Shed 1,18.6,54.1,96.1,A,Fresh
+PRD0034,Banana,Fruit,Robusta,Suresh Babu,Dindigul,2026-04-01,1571.2,Cold Room C,11.7,91.2,95.7,A,In Storage
+PRD0035,Onion,Vegetable,Nashik Red,Saroja Devi,Madurai,2026-02-15,1486.3,Ripening Chamber 2,9.8,86.2,84.5,B,In Storage
+PRD0036,Cabbage,Vegetable,Golden Acre,Karthik Raja,Erode,2026-01-10,1724.3,Ambient Shed 2,20.8,68.0,70.4,B,In Storage
+PRD0037,Carrot,Vegetable,Nantes,Vijaya Bharathi,Erode,2026-03-26,593.3,Cold Room B,11.7,84.2,83.2,B,Near Expiry
+PRD0038,Grapes,Fruit,Sonaka,Ramasamy Pillai,Dindigul,2026-03-08,398.2,Ripening Chamber 1,2.4,88.9,70.2,B,Dispatched
+PRD0039,Apple,Fruit,Fuji,Palanisamy V,Dindigul,2026-04-09,1804.0,Ambient Shed 2,21.6,62.7,55.1,C,Sold
+PRD0040,Carrot,Vegetable,Pusa Kesar,Saroja Devi,Dindigul,2026-06-20,1845.5,Ripening Chamber 2,8.6,81.9,94.6,A,Sold
+PRD0041,Cabbage,Vegetable,Green Coronet,Saroja Devi,Trichy,2026-04-14,1409.6,Ambient Shed 1,20.7,61.6,71.7,B,In Storage
+PRD0042,Chilli,Vegetable,Kashmiri,Manikandan S,Erode,2026-05-21,1675.8,Ripening Chamber 1,4.9,86.4,80.5,B,Dispatched
+PRD0043,Mango,Fruit,Banganapalli,Rajendran K,Salem,2026-05-11,972.7,Ambient Shed 1,27.2,52.1,84.2,B,Sold
+PRD0044,Banana,Fruit,Robusta,Suresh Babu,Chennai,2026-02-27,1622.8,Ambient Shed 1,18.3,51.1,75.9,B,Fresh
+PRD0045,Mango,Fruit,Banganapalli,Dinesh Kannan,Salem,2026-07-03,1407.9,Ventilated Store 1,23.6,48.7,85.3,A,Fresh
+PRD0046,Apple,Fruit,Shimla Red,Ganesan Moorthy,Thanjavur,2026-04-29,147.9,Ambient Shed 2,30.8,48.0,60.9,C,Near Expiry
+PRD0047,Grapes,Fruit,Sharad Seedless,Sivagami R,Trichy,2026-07-13,1788.3,Cold Room C,10.3,88.2,94.5,A,Near Expiry
+PRD0048,Mango,Fruit,Banganapalli,Suresh Babu,Chennai,2026-07-16,1566.5,Ventilated Store 1,26.8,51.9,58.4,C,Dispatched
+PRD0049,Carrot,Vegetable,Pusa Kesar,Pandiyan Raj,Trichy,2026-05-19,207.1,Ambient Shed 1,21.2,62.3,86.1,A,Fresh
+PRD0050,Apple,Fruit,Royal Gala,Pandiyan Raj,Thanjavur,2026-04-30,860.8,Ambient Shed 2,29.7,54.7,88.9,A,Fresh
+PRD0051,Chilli,Vegetable,Byadgi,Meenakshi Sundaram,Madurai,2026-04-01,632.3,Cold Room C,10.5,94.3,73.4,B,Sold
+PRD0052,Chilli,Vegetable,Guntur Sannam,Meenakshi Sundaram,Salem,2026-03-11,899.9,Cold Room A,5.9,90.0,90.1,A,In Storage
+PRD0053,Mango,Fruit,Alphonso,Sivagami R,Thanjavur,2026-01-07,1818.5,Cold Room A,2.8,86.4,93.1,A,In Storage
+PRD0054,Tomato,Vegetable,Roma,Elango Nadar,Trichy,2026-02-24,936.7,Ripening Chamber 2,9.6,85.7,88.1,A,Near Expiry
+PRD0055,Cabbage,Vegetable,Golden Acre,Meenakshi Sundaram,Madurai,2026-07-11,1101.9,Ripening Chamber 2,4.2,81.0,97.1,A,Fresh
+PRD0056,Tomato,Vegetable,Pusa Ruby,Vijaya Bharathi,Madurai,2026-06-09,347.1,Ambient Shed 1,24.6,47.9,96.7,A,Near Expiry
+PRD0057,Cabbage,Vegetable,Pride of India,Ganesan Moorthy,Vellore,2026-06-05,1929.3,Cold Room B,9.8,82.5,68.7,B,Sold
+PRD0058,Tomato,Vegetable,Roma,Dinesh Kannan,Erode,2026-04-12,1885.9,Ambient Shed 2,19.1,62.3,82.6,B,Fresh
+PRD0059,Cabbage,Vegetable,Green Coronet,Sivagami R,Dindigul,2026-05-25,1576.1,Ripening Chamber 2,7.3,89.9,58.0,C,Dispatched
+PRD0060,Tomato,Vegetable,Roma,Meenakshi Sundaram,Dindigul,2026-04-21,1923.5,Ventilated Store 1,27.9,55.9,87.3,A,Dispatched
+PRD0061,Chilli,Vegetable,Kashmiri,Meenakshi Sundaram,Theni,2026-04-22,1660.2,Ripening Chamber 1,5.2,83.7,96.1,A,Dispatched
+PRD0062,Mango,Fruit,Alphonso,Rajendran K,Vellore,2026-06-06,1353.0,Ripening Chamber 2,2.3,92.8,63.0,C,In Storage
+PRD0063,Banana,Fruit,Poovan,Pandiyan Raj,Chennai,2026-06-02,1417.3,Ripening Chamber 1,7.6,87.7,63.4,C,In Storage
+PRD0064,Apple,Fruit,Royal Gala,Chitra Kumari,Salem,2026-06-26,978.4,Ventilated Store 1,24.3,45.4,67.9,B,Near Expiry
+PRD0065,Carrot,Vegetable,Pusa Kesar,Dinesh Kannan,Trichy,2026-05-02,1129.3,Ripening Chamber 2,6.3,91.2,69.6,B,Near Expiry
+PRD0066,Cabbage,Vegetable,Pride of India,Anitha Rani,Salem,2026-01-31,1456.5,Ripening Chamber 2,3.2,88.0,88.5,A,In Storage
+PRD0067,Carrot,Vegetable,Nantes,Meenakshi Sundaram,Chennai,2026-07-05,1199.7,Ripening Chamber 1,11.8,92.5,68.0,B,Dispatched
+PRD0068,Onion,Vegetable,Bangalore Rose,Ramasamy Pillai,Thanjavur,2026-02-02,584.9,Cold Room A,7.5,90.5,60.6,C,Near Expiry
+PRD0069,Potato,Vegetable,Kufri Jyoti,Dinesh Kannan,Chennai,2026-05-01,983.5,Ripening Chamber 2,3.8,80.8,96.4,A,Near Expiry
+PRD0070,Potato,Vegetable,Kufri Jyoti,Elango Nadar,Theni,2026-01-19,1175.2,Cold Room A,3.5,92.2,96.8,A,Fresh
+PRD0071,Carrot,Vegetable,Nantes,Chitra Kumari,Erode,2026-06-05,1212.4,Ambient Shed 2,28.9,54.5,95.0,A,Dispatched
+PRD0072,Chilli,Vegetable,Byadgi,Manikandan S,Vellore,2026-06-08,167.4,Cold Room B,11.5,83.1,64.3,C,Fresh
+PRD0073,Onion,Vegetable,Nashik Red,Ganesan Moorthy,Thanjavur,2026-01-20,355.2,Cold Room C,6.5,88.9,67.8,B,In Storage
+PRD0074,Cabbage,Vegetable,Green Coronet,Manikandan S,Theni,2026-01-19,1390.4,Ripening Chamber 1,9.9,89.4,84.1,B,In Storage
+PRD0075,Apple,Fruit,Shimla Red,Chitra Kumari,Salem,2026-06-15,340.5,Ripening Chamber 1,10.3,81.1,62.3,C,Dispatched
+PRD0076,Chilli,Vegetable,Kashmiri,Dinesh Kannan,Chennai,2026-04-23,292.5,Ripening Chamber 1,9.0,94.1,77.0,B,Near Expiry
+PRD0077,Mango,Fruit,Alphonso,Sivagami R,Madurai,2026-04-21,1482.3,Ripening Chamber 1,2.3,83.4,84.7,B,Sold
+PRD0078,Chilli,Vegetable,Guntur Sannam,Anitha Rani,Vellore,2026-01-11,1538.1,Ambient Shed 1,24.6,61.3,95.3,A,In Storage
+PRD0079,Chilli,Vegetable,Byadgi,Meenakshi Sundaram,Dindigul,2026-05-01,728.5,Ripening Chamber 2,5.2,81.6,62.1,C,Near Expiry
+PRD0080,Mango,Fruit,Banganapalli,Elango Nadar,Thanjavur,2026-01-10,936.9,Ripening Chamber 2,4.5,81.7,89.0,A,Sold
+PRD0081,Tomato,Vegetable,Hybrid Arka Rakshak,Chitra Kumari,Theni,2026-04-16,155.7,Ripening Chamber 2,8.2,87.5,74.4,B,Fresh
+PRD0082,Carrot,Vegetable,Pusa Kesar,Chitra Kumari,Coimbatore,2026-03-15,904.3,Ventilated Store 1,19.7,69.3,81.8,B,In Storage
+PRD0083,Onion,Vegetable,Bangalore Rose,Chitra Kumari,Madurai,2026-05-22,845.6,Ambient Shed 2,31.9,67.8,75.3,B,Fresh
+PRD0084,Onion,Vegetable,Bangalore Rose,Manikandan S,Thanjavur,2026-06-30,583.2,Ventilated Store 1,31.7,51.1,79.3,B,Near Expiry
+PRD0085,Carrot,Vegetable,Desi Red,Palanisamy V,Coimbatore,2026-01-18,588.7,Cold Room C,5.4,91.8,66.8,B,Fresh
+PRD0086,Cabbage,Vegetable,Green Coronet,Manikandan S,Vellore,2026-05-29,1997.9,Ventilated Store 1,30.1,56.2,76.3,B,Dispatched
+PRD0087,Grapes,Fruit,Sharad Seedless,Elango Nadar,Theni,2026-03-24,1745.7,Ambient Shed 2,26.0,50.8,89.1,A,Fresh
+PRD0088,Banana,Fruit,Nendran,Meenakshi Sundaram,Erode,2026-04-09,1977.4,Ambient Shed 1,24.9,45.9,77.1,B,Sold
+PRD0089,Banana,Fruit,Robusta,Rajendran K,Dindigul,2026-05-15,1825.4,Cold Room A,9.2,86.1,83.8,B,In Storage
+PRD0090,Potato,Vegetable,Kufri Chandramukhi,Anitha Rani,Trichy,2026-06-09,1400.8,Cold Room B,10.5,92.8,92.8,A,Near Expiry
+PRD0091,Banana,Fruit,Nendran,Meenakshi Sundaram,Thanjavur,2026-01-10,1254.0,Ambient Shed 2,26.8,68.0,98.9,A,Fresh
+PRD0092,Apple,Fruit,Shimla Red,Karthik Raja,Theni,2026-02-12,1403.3,Cold Room A,2.5,91.9,67.9,B,Dispatched
+PRD0093,Apple,Fruit,Shimla Red,Suresh Babu,Thanjavur,2026-04-16,1153.6,Ambient Shed 1,20.4,47.0,93.3,A,Sold
+PRD0094,Carrot,Vegetable,Pusa Kesar,Dinesh Kannan,Coimbatore,2026-03-01,949.2,Ripening Chamber 1,6.6,90.0,94.6,A,Near Expiry
+PRD0095,Cabbage,Vegetable,Green Coronet,Chitra Kumari,Coimbatore,2026-01-19,911.4,Ripening Chamber 2,11.9,84.5,97.3,A,Dispatched
+PRD0096,Mango,Fruit,Banganapalli,Vijaya Bharathi,Erode,2026-05-04,258.0,Cold Room C,7.7,88.6,98.7,A,Dispatched
+PRD0097,Tomato,Vegetable,Hybrid Arka Rakshak,Elango Nadar,Chennai,2026-01-03,1153.6,Cold Room A,11.1,91.2,91.6,A,Dispatched
+PRD0098,Carrot,Vegetable,Desi Red,Kavitha Murugan,Salem,2026-06-12,420.8,Ripening Chamber 1,8.8,90.8,84.0,B,In Storage
+PRD0099,Potato,Vegetable,Kufri Bahar,Muthu Kumar,Chennai,2026-04-23,115.1,Ripening Chamber 2,9.3,81.4,68.0,B,Near Expiry
+PRD0100,Onion,Vegetable,Nashik Red,Lakshmi Narayanan,Thanjavur,2026-04-04,1085.2,Ripening Chamber 1,10.3,83.9,91.3,A,Near Expiry
+PRD0101,Cabbage,Vegetable,Green Coronet,Pandiyan Raj,Dindigul,2026-04-30,1927.6,Ambient Shed 1,28.6,50.6,84.8,B,Near Expiry
+PRD0102,Grapes,Fruit,Sonaka,Selvi Devi,Erode,2026-01-04,565.7,Cold Room B,6.5,90.1,84.6,B,Sold
+PRD0103,Apple,Fruit,Fuji,Kavitha Murugan,Dindigul,2026-06-22,506.0,Cold Room A,8.2,94.1,69.4,B,Sold
+PRD0104,Carrot,Vegetable,Desi Red,Selvi Devi,Theni,2026-06-29,639.3,Cold Room C,3.2,80.7,56.6,C,Near Expiry
+PRD0105,Potato,Vegetable,Kufri Jyoti,Suresh Babu,Thanjavur,2026-02-04,807.9,Ripening Chamber 2,8.7,91.1,96.6,A,Near Expiry
+PRD0106,Chilli,Vegetable,Kashmiri,Lakshmi Narayanan,Erode,2026-06-17,243.1,Ventilated Store 1,26.6,68.5,67.3,B,Dispatched
+PRD0107,Carrot,Vegetable,Pusa Kesar,Rajendran K,Salem,2026-04-03,243.7,Ripening Chamber 2,7.4,94.7,70.8,B,Near Expiry
+PRD0108,Cabbage,Vegetable,Golden Acre,Karthik Raja,Theni,2026-01-24,1342.4,Cold Room A,2.5,85.0,98.5,A,Sold
+PRD0109,Carrot,Vegetable,Nantes,Chitra Kumari,Salem,2026-05-31,471.1,Ambient Shed 2,22.6,48.7,94.6,A,Fresh
+PRD0110,Cabbage,Vegetable,Golden Acre,Lakshmi Narayanan,Thanjavur,2026-03-06,1607.1,Cold Room B,8.6,80.4,55.7,C,In Storage
+PRD0111,Chilli,Vegetable,Byadgi,Ramasamy Pillai,Coimbatore,2026-03-09,152.2,Cold Room C,7.3,91.2,76.0,B,Dispatched
+PRD0112,Grapes,Fruit,Sharad Seedless,Karthik Raja,Theni,2026-05-09,482.0,Cold Room A,9.3,93.6,84.0,B,Dispatched
+PRD0113,Mango,Fruit,Neelam,Ramasamy Pillai,Madurai,2026-05-03,1702.2,Cold Room C,8.9,87.4,95.0,A,Fresh
+PRD0114,Potato,Vegetable,Kufri Chandramukhi,Sivagami R,Coimbatore,2026-01-17,296.1,Ripening Chamber 2,5.8,89.0,68.0,B,Sold
+PRD0115,Chilli,Vegetable,Byadgi,Karthik Raja,Dindigul,2026-06-17,1319.3,Ambient Shed 2,24.0,67.2,73.2,B,Near Expiry
+PRD0116,Apple,Fruit,Royal Gala,Karthik Raja,Trichy,2026-04-20,659.4,Ripening Chamber 1,5.7,82.3,95.6,A,Fresh
+PRD0117,Potato,Vegetable,Kufri Jyoti,Selvi Devi,Erode,2026-01-25,1501.9,Ripening Chamber 2,10.1,88.3,80.8,B,Sold
+PRD0118,Grapes,Fruit,Sonaka,Karthik Raja,Erode,2026-04-01,1753.5,Cold Room C,10.7,90.8,97.6,A,Sold
+PRD0119,Cabbage,Vegetable,Pride of India,Karthik Raja,Vellore,2026-05-10,464.8,Ventilated Store 1,21.1,47.7,92.2,A,Dispatched
+PRD0120,Potato,Vegetable,Kufri Chandramukhi,Dinesh Kannan,Salem,2026-04-20,1698.1,Cold Room A,8.1,89.9,85.5,A,Fresh
+PRD0121,Onion,Vegetable,Bangalore Rose,Manikandan S,Trichy,2026-03-31,61.9,Ambient Shed 1,25.9,55.0,61.2,C,Fresh
+PRD0122,Potato,Vegetable,Kufri Bahar,Palanisamy V,Salem,2026-04-07,868.7,Ripening Chamber 2,3.6,84.7,69.3,B,Sold
+PRD0123,Chilli,Vegetable,Guntur Sannam,Muthu Kumar,Coimbatore,2026-02-10,1521.1,Cold Room A,8.7,84.1,84.1,B,Near Expiry
+PRD0124,Chilli,Vegetable,Byadgi,Saroja Devi,Chennai,2026-02-25,1522.1,Cold Room B,5.5,81.7,84.8,B,Sold
+PRD0125,Mango,Fruit,Neelam,Manikandan S,Madurai,2026-02-26,820.8,Cold Room A,2.1,84.5,64.3,C,In Storage
+PRD0126,Cabbage,Vegetable,Pride of India,Pandiyan Raj,Dindigul,2026-01-02,1019.9,Cold Room C,3.8,85.7,86.0,A,Sold
+PRD0127,Grapes,Fruit,Sharad Seedless,Kavitha Murugan,Dindigul,2026-04-12,1730.4,Cold Room A,6.4,86.9,58.4,C,Dispatched
+PRD0128,Chilli,Vegetable,Byadgi,Dinesh Kannan,Erode,2026-07-01,1298.3,Ripening Chamber 1,3.2,80.3,69.3,B,Sold
+PRD0129,Mango,Fruit,Neelam,Kavitha Murugan,Dindigul,2026-04-22,1696.7,Ambient Shed 2,24.1,55.0,58.5,C,Dispatched
+PRD0130,Banana,Fruit,Robusta,Pandiyan Raj,Coimbatore,2026-01-20,1045.4,Cold Room B,7.3,82.9,89.2,A,Dispatched
+PRD0131,Onion,Vegetable,Nashik Red,Karthik Raja,Coimbatore,2026-03-07,434.7,Ambient Shed 1,28.6,61.4,62.8,C,Near Expiry
+PRD0132,Mango,Fruit,Neelam,Dinesh Kannan,Theni,2026-06-24,1852.1,Ripening Chamber 2,10.6,89.4,61.6,C,Fresh
+PRD0133,Mango,Fruit,Banganapalli,Manikandan S,Chennai,2026-06-01,159.5,Cold Room B,5.1,86.8,57.5,C,Dispatched
+PRD0134,Potato,Vegetable,Kufri Bahar,Selvi Devi,Vellore,2026-06-02,1038.8,Ventilated Store 1,26.1,68.9,87.5,A,Fresh
+PRD0135,Mango,Fruit,Neelam,Vijaya Bharathi,Trichy,2026-06-04,977.5,Ambient Shed 1,31.4,56.3,90.7,A,Dispatched
+PRD0136,Potato,Vegetable,Kufri Bahar,Ganesan Moorthy,Madurai,2026-03-05,1429.9,Ventilated Store 1,25.3,60.2,71.0,B,Dispatched
+PRD0137,Apple,Fruit,Royal Gala,Pandiyan Raj,Vellore,2026-01-14,1589.0,Ripening Chamber 2,2.7,81.4,84.8,B,Dispatched
+PRD0138,Cabbage,Vegetable,Green Coronet,Sivagami R,Coimbatore,2026-03-27,208.9,Ambient Shed 1,30.8,52.8,83.9,B,Near Expiry
+PRD0139,Onion,Vegetable,Agrifound Light Red,Selvi Devi,Chennai,2026-05-24,784.5,Ripening Chamber 2,10.1,90.1,91.5,A,Sold
+PRD0140,Potato,Vegetable,Kufri Bahar,Saroja Devi,Thanjavur,2026-04-03,85.5,Ripening Chamber 1,3.8,83.2,96.7,A,Near Expiry

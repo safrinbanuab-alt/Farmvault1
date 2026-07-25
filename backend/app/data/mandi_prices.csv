@@ -1,0 +1,113 @@
+date,market,state,produce,variety,price_min,price_max,modal_price,arrival_tonnes
+2026-01-01,Madurai,Tamil Nadu,Carrot,Nantes,1272.0,2119.99,1661.49,77.47
+2026-01-01,Dindigul,Tamil Nadu,Potato,Kufri Bahar,929.25,1652.01,1324.14,221.5
+2026-01-01,Coimbatore,Tamil Nadu,Tomato,Hybrid Arka Rakshak,784.33,1764.74,1301.17,37.11
+2026-01-01,Salem,Tamil Nadu,Apple,Shimla Red,5756.82,9114.96,7469.02,193.92
+2026-01-01,Chennai,Tamil Nadu,Onion,Agrifound Light Red,992.52,2183.55,1579.12,170.71
+2026-01-01,Trichy,Tamil Nadu,Carrot,Pusa Kesar,1215.93,2026.54,1646.47,197.03
+2026-01-01,Erode,Tamil Nadu,Carrot,Desi Red,1162.44,1937.4,1596.48,197.17
+2026-01-01,Theni,Tamil Nadu,Carrot,Pusa Kesar,1225.68,2042.79,1641.28,112.95
+2026-01-02,Madurai,Tamil Nadu,Cabbage,Pride of India,500.17,1100.38,792.14,44.7
+2026-01-02,Dindigul,Tamil Nadu,Carrot,Desi Red,1147.93,1913.22,1505.58,162.09
+2026-01-02,Coimbatore,Tamil Nadu,Banana,Nendran,1052.12,2104.23,1599.32,131.4
+2026-01-02,Salem,Tamil Nadu,Potato,Kufri Chandramukhi,855.06,1520.1,1153.61,115.08
+2026-01-02,Chennai,Tamil Nadu,Grapes,Thompson Seedless,3639.04,7278.08,5417.73,228.07
+2026-01-02,Trichy,Tamil Nadu,Mango,Banganapalli,2629.14,6309.94,4461.03,102.13
+2026-01-02,Erode,Tamil Nadu,Banana,Robusta,986.34,1972.68,1437.67,60.01
+2026-01-02,Theni,Tamil Nadu,Banana,Robusta,1040.7,2081.4,1576.05,198.89
+2026-01-03,Madurai,Tamil Nadu,Onion,Nashik Red,974.43,2143.74,1592.06,175.54
+2026-01-03,Dindigul,Tamil Nadu,Onion,Agrifound Light Red,996.29,2191.85,1605.6,226.94
+2026-01-03,Coimbatore,Tamil Nadu,Tomato,Roma,772.7,1738.58,1220.59,235.36
+2026-01-03,Salem,Tamil Nadu,Chilli,Kashmiri,3963.16,8917.12,6467.76,63.22
+2026-01-03,Chennai,Tamil Nadu,Potato,Kufri Jyoti,871.75,1549.78,1224.66,157.59
+2026-01-03,Trichy,Tamil Nadu,Potato,Kufri Jyoti,936.36,1664.64,1300.48,136.33
+2026-01-03,Erode,Tamil Nadu,Grapes,Sharad Seedless,3391.61,6783.23,5051.78,110.16
+2026-01-03,Theni,Tamil Nadu,Chilli,Byadgi,3875.47,8719.81,6289.3,167.77
+2026-01-04,Madurai,Tamil Nadu,Potato,Kufri Bahar,951.26,1691.13,1277.96,133.88
+2026-01-04,Dindigul,Tamil Nadu,Grapes,Sharad Seedless,3522.74,7045.49,5273.16,120.18
+2026-01-04,Coimbatore,Tamil Nadu,Apple,Royal Gala,5822.63,9219.16,7472.52,198.19
+2026-01-04,Salem,Tamil Nadu,Banana,Robusta,1027.95,2055.91,1554.76,194.02
+2026-01-04,Chennai,Tamil Nadu,Banana,Robusta,945.32,1890.64,1422.58,204.31
+2026-01-04,Trichy,Tamil Nadu,Onion,Agrifound Light Red,995.75,2190.66,1612.74,159.78
+2026-01-04,Erode,Tamil Nadu,Onion,Nashik Red,1025.93,2257.04,1685.85,14.06
+2026-01-04,Theni,Tamil Nadu,Carrot,Nantes,1241.92,2069.87,1694.47,82.32
+2026-01-05,Madurai,Tamil Nadu,Cabbage,Green Coronet,493.89,1086.57,821.77,120.98
+2026-01-05,Dindigul,Tamil Nadu,Tomato,Hybrid Arka Rakshak,770.35,1733.28,1237.51,196.31
+2026-01-05,Coimbatore,Tamil Nadu,Banana,Poovan,954.94,1909.87,1419.21,222.92
+2026-01-05,Salem,Tamil Nadu,Mango,Banganapalli,2451.71,5884.11,4136.59,174.56
+2026-01-05,Chennai,Tamil Nadu,Banana,Nendran,972.01,1944.01,1416.27,109.0
+2026-01-05,Trichy,Tamil Nadu,Apple,Fuji,6356.47,10064.41,8178.49,76.97
+2026-01-05,Erode,Tamil Nadu,Potato,Kufri Jyoti,881.42,1566.96,1203.75,114.25
+2026-01-05,Theni,Tamil Nadu,Apple,Shimla Red,6136.63,9716.33,7911.63,15.38
+2026-01-06,Madurai,Tamil Nadu,Banana,Nendran,1059.78,2119.56,1567.13,245.11
+2026-01-06,Dindigul,Tamil Nadu,Tomato,Pusa Ruby,816.43,1836.98,1317.33,130.71
+2026-01-06,Coimbatore,Tamil Nadu,Onion,Nashik Red,957.13,2105.69,1542.17,196.42
+2026-01-06,Salem,Tamil Nadu,Tomato,Pusa Ruby,758.45,1706.52,1260.34,94.75
+2026-01-06,Chennai,Tamil Nadu,Apple,Fuji,5663.32,8966.92,7280.46,115.23
+2026-01-06,Trichy,Tamil Nadu,Banana,Poovan,993.27,1986.55,1447.6,38.74
+2026-01-06,Erode,Tamil Nadu,Banana,Poovan,977.73,1955.45,1444.46,240.33
+2026-01-06,Theni,Tamil Nadu,Tomato,Hybrid Arka Rakshak,769.86,1732.19,1252.8,228.82
+2026-01-07,Madurai,Tamil Nadu,Potato,Kufri Chandramukhi,929.7,1652.79,1311.65,57.57
+2026-01-07,Dindigul,Tamil Nadu,Chilli,Byadgi,4093.11,9209.5,6701.17,54.04
+2026-01-07,Coimbatore,Tamil Nadu,Onion,Nashik Red,994.25,2187.34,1630.66,114.05
+2026-01-07,Salem,Tamil Nadu,Potato,Kufri Bahar,950.5,1689.77,1368.79,168.62
+2026-01-07,Chennai,Tamil Nadu,Potato,Kufri Bahar,904.55,1608.1,1295.46,213.58
+2026-01-07,Trichy,Tamil Nadu,Onion,Bangalore Rose,1001.05,2202.31,1563.82,54.24
+2026-01-07,Erode,Tamil Nadu,Onion,Nashik Red,1034.84,2276.66,1608.38,140.74
+2026-01-07,Theni,Tamil Nadu,Banana,Poovan,1036.44,2072.88,1559.82,154.93
+2026-01-08,Madurai,Tamil Nadu,Potato,Kufri Jyoti,879.4,1563.38,1271.35,181.12
+2026-01-08,Dindigul,Tamil Nadu,Grapes,Sonaka,3613.05,7226.1,5451.91,23.07
+2026-01-08,Coimbatore,Tamil Nadu,Banana,Nendran,948.9,1897.8,1419.93,131.75
+2026-01-08,Salem,Tamil Nadu,Onion,Agrifound Light Red,1016.78,2236.91,1595.04,241.73
+2026-01-08,Chennai,Tamil Nadu,Apple,Fuji,6295.71,9968.21,8087.5,35.42
+2026-01-08,Trichy,Tamil Nadu,Onion,Bangalore Rose,959.76,2111.47,1517.88,178.79
+2026-01-08,Erode,Tamil Nadu,Banana,Nendran,1047.39,2094.78,1605.68,66.4
+2026-01-08,Theni,Tamil Nadu,Grapes,Sonaka,3342.57,6685.14,4994.14,135.7
+2026-01-09,Madurai,Tamil Nadu,Grapes,Sharad Seedless,3360.83,6721.65,5085.4,42.78
+2026-01-09,Dindigul,Tamil Nadu,Chilli,Kashmiri,4192.96,9434.16,6797.32,231.36
+2026-01-09,Coimbatore,Tamil Nadu,Tomato,Pusa Ruby,759.8,1709.54,1279.52,193.9
+2026-01-09,Salem,Tamil Nadu,Cabbage,Green Coronet,482.65,1061.83,779.45,156.44
+2026-01-09,Chennai,Tamil Nadu,Tomato,Roma,837.34,1884.02,1365.24,162.27
+2026-01-09,Trichy,Tamil Nadu,Cabbage,Pride of India,484.69,1066.32,806.24,104.49
+2026-01-09,Erode,Tamil Nadu,Mango,Alphonso,2556.58,6135.8,4312.0,106.83
+2026-01-09,Theni,Tamil Nadu,Mango,Alphonso,2452.06,5884.94,4132.87,216.06
+2026-01-10,Madurai,Tamil Nadu,Banana,Nendran,1058.56,2117.13,1572.38,102.69
+2026-01-10,Dindigul,Tamil Nadu,Banana,Nendran,1007.4,2014.8,1493.01,119.29
+2026-01-10,Coimbatore,Tamil Nadu,Cabbage,Pride of India,484.88,1066.73,735.49,76.1
+2026-01-10,Salem,Tamil Nadu,Apple,Fuji,5941.06,9406.67,7720.13,226.07
+2026-01-10,Chennai,Tamil Nadu,Banana,Nendran,1026.54,2053.07,1508.79,44.04
+2026-01-10,Trichy,Tamil Nadu,Grapes,Sonaka,3499.48,6998.96,5230.07,10.68
+2026-01-10,Erode,Tamil Nadu,Apple,Fuji,5969.21,9451.24,7684.3,147.92
+2026-01-10,Theni,Tamil Nadu,Tomato,Pusa Ruby,779.01,1752.77,1275.64,211.5
+2026-01-11,Madurai,Tamil Nadu,Mango,Banganapalli,2511.01,6026.42,4303.43,110.58
+2026-01-11,Dindigul,Tamil Nadu,Cabbage,Green Coronet,491.95,1082.28,777.44,16.08
+2026-01-11,Coimbatore,Tamil Nadu,Tomato,Hybrid Arka Rakshak,805.93,1813.35,1295.89,75.71
+2026-01-11,Salem,Tamil Nadu,Apple,Fuji,5964.26,9443.4,7708.82,207.2
+2026-01-11,Chennai,Tamil Nadu,Chilli,Kashmiri,4053.3,9119.93,6549.48,28.69
+2026-01-11,Trichy,Tamil Nadu,Banana,Poovan,1006.94,2013.88,1496.97,40.35
+2026-01-11,Erode,Tamil Nadu,Chilli,Kashmiri,3952.67,8893.5,6377.11,14.53
+2026-01-11,Theni,Tamil Nadu,Banana,Poovan,1002.32,2004.64,1468.37,223.82
+2026-01-12,Madurai,Tamil Nadu,Onion,Bangalore Rose,1051.76,2313.88,1664.67,101.27
+2026-01-12,Dindigul,Tamil Nadu,Chilli,Kashmiri,4164.45,9370.01,6776.6,129.29
+2026-01-12,Coimbatore,Tamil Nadu,Grapes,Sharad Seedless,3495.74,6991.47,5249.9,121.35
+2026-01-12,Salem,Tamil Nadu,Tomato,Roma,783.8,1763.55,1234.64,107.05
+2026-01-12,Chennai,Tamil Nadu,Cabbage,Green Coronet,522.33,1149.12,848.65,151.24
+2026-01-12,Trichy,Tamil Nadu,Cabbage,Green Coronet,516.97,1137.34,854.77,146.52
+2026-01-12,Erode,Tamil Nadu,Tomato,Hybrid Arka Rakshak,798.12,1795.78,1299.37,181.69
+2026-01-12,Theni,Tamil Nadu,Apple,Shimla Red,6231.6,9866.69,8023.36,145.28
+2026-01-13,Madurai,Tamil Nadu,Potato,Kufri Jyoti,848.05,1507.64,1159.21,42.1
+2026-01-13,Dindigul,Tamil Nadu,Carrot,Pusa Kesar,1200.26,2000.44,1611.5,120.54
+2026-01-13,Coimbatore,Tamil Nadu,Tomato,Hybrid Arka Rakshak,765.26,1721.83,1214.28,84.64
+2026-01-13,Salem,Tamil Nadu,Mango,Neelam,2463.05,5911.31,4232.85,117.62
+2026-01-13,Chennai,Tamil Nadu,Grapes,Sonaka,3519.43,7038.87,5296.74,217.58
+2026-01-13,Trichy,Tamil Nadu,Cabbage,Green Coronet,499.05,1097.91,844.21,73.36
+2026-01-13,Erode,Tamil Nadu,Cabbage,Golden Acre,526.49,1158.28,890.61,193.94
+2026-01-13,Theni,Tamil Nadu,Carrot,Desi Red,1229.52,2049.2,1621.06,90.46
+2026-01-14,Madurai,Tamil Nadu,Cabbage,Pride of India,477.31,1050.09,781.36,98.03
+2026-01-14,Dindigul,Tamil Nadu,Apple,Royal Gala,6327.32,10018.25,8203.25,76.16
+2026-01-14,Coimbatore,Tamil Nadu,Cabbage,Green Coronet,474.74,1044.43,801.99,165.71
+2026-01-14,Salem,Tamil Nadu,Mango,Alphonso,2410.62,5785.49,4101.91,233.59
+2026-01-14,Chennai,Tamil Nadu,Cabbage,Golden Acre,476.55,1048.42,786.57,63.62
+2026-01-14,Trichy,Tamil Nadu,Tomato,Hybrid Arka Rakshak,838.9,1887.52,1335.78,62.04
+2026-01-14,Erode,Tamil Nadu,Potato,Kufri Chandramukhi,881.67,1567.42,1221.79,171.89
+2026-01-14,Theni,Tamil Nadu,Onion,Nashik Red,1055.74,2322.63,1736.98,43.7
